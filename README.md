@@ -18,7 +18,8 @@ Este proyecto se centra en analizar los datos de la empresa Y.Afisha para evalua
 - Limpieza de Datos: Se llevaron a cabo operaciones de limpieza, como el manejo de valores nulos y la normalización de datos.
 - Análisis Exploratorio de Datos (EDA): Se exploraron los datos para obtener una comprensión inicial utilizando pandas y numpy.
 - Visualización de Datos: Se crearon gráficos con matplotlib y seaborn para visualizar las diferencias entre los dos planes.
-- Comparación de Campañas: __Se compararon los costos y el rendimiento de diferentes campañas de marketing__.
+- Comparación de Campañas: __Se compararon, usando métricas clave como CAC, LTV y ROMI, los costos y el rendimiento de diferentes campañas de marketing__.
+
 - Recomendación: Con base en el análisis, __se proporcionaron recomendaciones sobre las campañas en las que sería más rentable invertir__.
   
 ## Conclusiones
