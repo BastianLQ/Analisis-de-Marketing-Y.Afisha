@@ -16,8 +16,8 @@ Este proyecto se centra en analizar los datos de la empresa Y.Afisha para evalua
 ## Proceso del Proyecto
 - __Pre-análisis de los datos:__ Los datos fueron extraídos de tres archivos proporcionados por la compañía (`orders`, `visits` y `costs`). Además, se llevaron a cabo operaciones de limpieza, como la búsqueda y eventual manejo de valores nulos, duplicados y formateo de datos.
 - __Análisis de los datos:__ .
-  - __Visitas:__ .
-  - __Ventas:__ .
+  - __Visitas:__ Se estudia la duración y frecuencia de las visitas de forma diaria, semanal y mensual, durante el año estudiado. También, se estudia la tasa de retención de cada cohorte mensual.
+  - __Ventas:__ Se analiza en qué momento la gente comienza a comprar, el tamao promedio de pedido y el LTV de cada cohorte mensual.
   - __Marketing:__ Se compararon, usando métricas clave como CAC, LTV y ROMI, los costos y el rendimiento de diferentes campañas de marketing. Además, se generaron visualizaciones ilustrativas, tales como, mapas de calor por cohorte y gráficos de barra para el CAC y un gráfico de líneas con los costos de todas las campañas por mes.
 - __Conclusión:__ Con base en el análisis, se proporcionaron recomendaciones sobre las campañas en las que sería más rentable invertir.
   
