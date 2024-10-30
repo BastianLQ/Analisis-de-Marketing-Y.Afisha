@@ -14,7 +14,7 @@ Este proyecto se centra en analizar los datos de la empresa Y.Afisha para evalua
 - Bibliotecas: __pandas, numpy, matplotlib, seaborn__
   
 ## Proceso del Proyecto
-- Extracción de Datos: Los datos fueron extraídos de un dataset que contiene información del mercado de los videojuegos.
+- Extracción de Datos: Los datos fueron extraídos de tres archivos proporcionados por la compañía (`orders`, `visits` y `costs`).
 - Limpieza de Datos: Se llevaron a cabo operaciones de limpieza, como el manejo de valores nulos y la normalización de datos.
 - Análisis Exploratorio de Datos (EDA): Se exploraron los datos para obtener una comprensión inicial utilizando pandas y numpy.
 - Análisis de cohortes: Se analizó la tasa de retención y, la diferencia entre la primera visita y la primera compra, de las diferentes cohortes mensuales.
