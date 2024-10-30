@@ -17,6 +17,7 @@ Este proyecto se centra en analizar los datos de la empresa Y.Afisha para evalua
 - Extracción de Datos: Los datos fueron extraídos de un dataset que contiene información del mercado de los videojuegos.
 - Limpieza de Datos: Se llevaron a cabo operaciones de limpieza, como el manejo de valores nulos y la normalización de datos.
 - Análisis Exploratorio de Datos (EDA): Se exploraron los datos para obtener una comprensión inicial utilizando pandas y numpy.
+- Análisis de cohortes: Se analizó la tasa de conversión y, la diferencia entre la primera visita y la primera compra, de las diferentes cohortes mensuales.
 - Visualización de Datos: Se crearon gráficos con matplotlib y seaborn para visualizar las diferencias entre los dos planes.
 - Comparación de Campañas: __Se compararon, usando métricas clave como CAC, LTV y ROMI, los costos y el rendimiento de diferentes campañas de marketing__.
 
