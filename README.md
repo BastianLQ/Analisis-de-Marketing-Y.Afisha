@@ -3,7 +3,7 @@ __Análisis de marketing para Y.Afisha, análisis de cohortes, cálculo de métr
 
 <image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/N8.jpg" alt="Collage de gráficos">
 
-_Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20de%20Marketing%20Y.Afisha.html)_
+_Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P8.html)_
 
 ## Descripción del proyecto
 Este proyecto se centra en analizar los datos de la empresa Y.Afisha para evaluar el comportamiento de los usuarios, las compras realizadas y los costos de marketing asociados. Se utilizaron tres datasets que contienen información sobre visitas al sitio web, compras realizadas y gastos en diversas campañas de marketing. Después de limpiar y analizar los datos, se realizó una comparación detallada del rendimiento de varias campañas para hacer recomendaciones sobre en cuáles invertir de manera más efectiva.
@@ -24,5 +24,5 @@ Este proyecto se centra en analizar los datos de la empresa Y.Afisha para evalua
 ## Relevancia de los descubrimientos
 El análisis de los datos de Y.Afisha proporcionó insights valiosos sobre el comportamiento de los usuarios y la eficacia de las campañas de marketing. Estas recomendaciones pueden ayudar optimizar en gran medida el gasto en marketing, servir de guía para construir nuevas campañas y saber qué tipo de campañas usar dependiendo de la época del año.
 
-## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20de%20Marketing%20Y.Afisha.html)
+## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P8.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
