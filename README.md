@@ -1,7 +1,7 @@
 # Analisis-de-Marketing-Y.Afisha
 __Análisis de marketing para Y.Afisha, análisis de cohortes, cálculo de métricas clave (CAC, ROMI, LTV) y visualización con mapa de calor__
 
-<image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/N8.jpg" alt="Collage de gráficos">
+<image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Picture.jpg" alt="Collage de gráficos">
 
 _Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P8.html)_
 
