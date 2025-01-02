@@ -39,5 +39,8 @@ Se presentarán los principales descubrimientos del análisis en diferentes ámb
 <image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_101_0.png" alt="Collage de gráficos">
 <image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_103_0.png" alt="Collage de gráficos">
 
+- La mediana en cuanto a tamaño de ventas es 2.5 dólares y en general las compras son por valores bajos, hay un numero pequeño de compras muy grandes (por sobre los mil dolares) pero estas no afectan significativamente las metricas finales como el ROMI y el LTV.
+- el LTV de un cliente captado en junio de 2017 (la cohorte más antigua) es de 11.88 dólares.
+
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P8.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
