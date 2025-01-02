@@ -6,7 +6,7 @@ __Análisis de marketing para Y.Afisha, análisis de cohortes, cálculo de métr
 _Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P8.html)_
 
 ## Descripción del proyecto
-Este proyecto se centra en analizar los datos de la empresa Y.Afisha para evaluar el comportamiento de los usuarios, las compras realizadas y los costos de marketing asociados. Se utilizaron tres datasets que contienen información sobre visitas al sitio web, compras realizadas y gastos en diversas campañas de marketing. Después de limpiar y analizar los datos, se realizó una comparación detallada del rendimiento de varias campañas para hacer recomendaciones sobre en cuáles invertir de manera más efectiva.
+Este proyecto se centra en analizar los datos de la empresa Y.Afisha para evaluar el comportamiento de los usuarios, las compras realizadas y los costos de marketing asociados. Se utilizaron tres datasets que contienen información sobre visitas al sitio web, compras realizadas y gastos en diversas campañas de marketing. Después de limpiar y analizar los datos, se realizó una comparación detallada del rendimiento de varias campañas para hacer recomendaciones sobre en cuáles invertir de manera más efectiva y los beneficios esperados.
   
 ## Herramientas Utilizadas
 - __Lenguaje de Programación:__ Python.
