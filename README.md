@@ -53,10 +53,12 @@ Se presentarán los principales descubrimientos del análisis en diferentes ámb
 - Se recomienda __eliminar la fuente de anuncios 3 debido a que tiene CAC muy alto y no es capaz de generar ganancias sino al contrario, están generando pérdidas para la empresa__, en la cual se gastaron 140.000 dólares durante el año estudiado.
 <image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_164_0.png" alt="Collage de gráficos">
 
-- __La fuente 1 funciona bien__, genera ganancias la mayoría del año, salvo unos pocos meses (de diciembre a febrero y abril).
+- __La fuente 1 funciona bien__ y se debe invertir más en ella, genera ganancias la mayoría del año, salvo unos pocos meses (de diciembre a febrero y abril).
 <image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_158_0.png" alt="Collage de gráficos">
 
 - La fuente 2 trae buenos resultados sólo en __septiembre y diciembre__.
+<image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_161_0.png" alt="Collage de gráficos">
+
 - La fuente 4 trae buenos resultados sólo en __noviembre__.
 - __La fuente 5 funciona bien para atraer compradores para navidad en el mes de septiembre, el resultado muestra que los clientes atraídos en esta fecha generaron muy buenos resultados__, sin embargo el resto del año la campaña no funciona bien.
 - La fuente 9 trae resultados relativamente buenos __desde junio hasta octubre__.
