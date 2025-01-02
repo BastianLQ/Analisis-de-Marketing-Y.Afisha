@@ -25,10 +25,13 @@ Este proyecto se centra en analizar los datos de la empresa Y.Afisha para evalua
 Se presentarán los principales descubrimientos del análisis en diferentes ámbitos.
 
 ### Visitas
+- La distribución mensual de visitas es muy variable, teniendo su peak en noviembre (antes de las fiestas de fin de año) y su punto más bajo en agosto.
+<image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_65_0.png" alt="Collage de gráficos">
+
 - La tasa de retención es muy baja, ninguna cohorte supera el 10% de retención mensual, lo anterior indica que se deben tomar medidas para retener a los visitantes y a los clientes que hacen su primera compra.
 <image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_91_0.png" alt="Collage de gráficos">
   
-- El ASL es de 60 segundos, lo cual es suficiente para que un cliente haga una compra.
+- El ASL (tiempo de sesión promedio) es de 60 segundos, lo cual es suficiente para que un cliente haga una compra.
 - En promedio, cada visitante entra 1.08 veces al día a la web.
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P8.html)
