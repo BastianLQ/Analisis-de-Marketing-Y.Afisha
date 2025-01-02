@@ -26,6 +26,7 @@ Se presentarán los principales descubrimientos del análisis en diferentes ámb
 
 ### Visitas
 <image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_91_0.png" alt="Collage de gráficos">
+  
 - La tasa de retención es muy baja, ninguna cohorte supera el 10% de retención mensual, lo anterior indica que se deben tomar medidas para retener a los visitantes y a los clientes que hacen su primera compra.
 - El ASL es de 60 segundos, lo cual es suficiente para que un cliente haga una compra.
 - En promedio, cada visitante entra 1.08 veces al día a la web, lo cual también es suficiente para hacer una compra.
