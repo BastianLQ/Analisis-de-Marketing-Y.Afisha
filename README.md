@@ -60,10 +60,19 @@ Se presentarán los principales descubrimientos del análisis en diferentes ámb
 <image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_161_0.png" alt="Collage de gráficos">
 
 - La fuente 4 trae buenos resultados sólo en __noviembre__.
-- __La fuente 5 funciona bien para atraer compradores para navidad en el mes de septiembre, el resultado muestra que los clientes atraídos en esta fecha generaron muy buenos resultados__, sin embargo el resto del año la campaña no funciona bien.
-- La fuente 9 trae resultados relativamente buenos __desde junio hasta octubre__.
-- La fuente 10 ha mostrado buenos números en __marzo y mayo__.
+<image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_167_0.png" alt="Collage de gráficos">
 
+- __La fuente 5 funciona bien para atraer compradores para navidad en el mes de septiembre, el resultado muestra que los clientes atraídos en esta fecha generaron muy buenos resultados__, sin embargo el resto del año la campaña no funciona bien.
+<image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_170_0.png" alt="Collage de gráficos">
+  
+- La fuente 9 trae resultados relativamente buenos __desde junio hasta octubre__.
+<image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_173_0.png" alt="Collage de gráficos">
+
+- La fuente 10 ha mostrado buenos números en __marzo y mayo__.
+<image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_176_0.png" alt="Collage de gráficos">
+
+Según los resultados anteriores es que se propone el siguiente esquema de distribución de recursos entre las campañas de marketing.
+<image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_188_0.png" alt="Collage de gráficos">
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P8.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
