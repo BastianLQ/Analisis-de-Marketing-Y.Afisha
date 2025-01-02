@@ -28,7 +28,7 @@ Se presentarán los principales descubrimientos del análisis en diferentes ámb
 - La distribución mensual de visitas es muy variable, teniendo su peak en noviembre (antes de las fiestas de fin de año) y su punto más bajo en agosto.
 <image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_65_0.png" alt="Collage de gráficos">
 
-- La tasa de retención es muy baja, ninguna cohorte supera el 10% de retención mensual, lo anterior indica que se deben tomar medidas para retener a los visitantes y a los clientes que hacen su primera compra.
+- La tasa de retención es __muy baja__, ninguna cohorte supera el 10% de retención mensual, lo anterior indica que se deben tomar medidas para retener a los visitantes y a los clientes que hacen su primera compra.
 <image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_91_0.png" alt="Collage de gráficos">
   
 - El ASL (tiempo de sesión promedio) es de 60 segundos, lo cual es suficiente para que un cliente haga una compra.
