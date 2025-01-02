@@ -50,6 +50,8 @@ Se presentarán los principales descubrimientos del análisis en diferentes ámb
 <image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_149_0.png" alt="Collage de gráficos">
 
 ### Recomendaciones de inversión
+Se analizará el ROMI mensual acumulado de cada fuente de anuncios, esto nos brindará una idea de en cuanto tiempo se recupera la inversión y si es que se llegan a generar ganancias, es el indicador clave de rendimiento de una campaña de marketing orientada a vender.
+
 - Se recomienda __eliminar la fuente de anuncios 3 debido a que tiene CAC muy alto y no es capaz de generar ganancias sino al contrario, están generando pérdidas para la empresa__, en la cual se gastaron 140.000 dólares durante el año estudiado.
 <image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_164_0.png" alt="Collage de gráficos">
 
