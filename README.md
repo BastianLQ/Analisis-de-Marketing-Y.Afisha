@@ -34,5 +34,10 @@ Se presentarán los principales descubrimientos del análisis en diferentes ámb
 - El ASL (tiempo de sesión promedio) es de 60 segundos, lo cual es suficiente para que un cliente haga una compra.
 - En promedio, cada visitante entra 1.08 veces al día a la web.
 
+### Ventas
+- Una gran mayoría de clientes hace su compra el mismo día de la primera visita a la web, y en específico durante los primeros 5 minutos.
+<image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_101_0.png" alt="Collage de gráficos">
+<image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_103_0.png" alt="Collage de gráficos">
+
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P8.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
