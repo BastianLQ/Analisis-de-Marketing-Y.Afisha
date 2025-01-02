@@ -49,5 +49,15 @@ Se presentarán los principales descubrimientos del análisis en diferentes ámb
 - El Costo de adquisición de cliente de la fuente 3 es de más de 13 dólares, lo que nos da un indicio de lo poco rentable que está resultando esta fuente de anuncios.
 <image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_149_0.png" alt="Collage de gráficos">
 
+### Recomendaciones de inversión
+- Se recomienda __eliminar la fuente de anuncios 3 debido a que tiene CAC muy alto y no es capaz de generar ganancias sino al contrario, están generando pérdidas para la empresa__, en la cual se gastaron 140.000 dólares durante el año estudiado
+- __La fuente 1 funciona bien__, genera ganancias la mayoría del año, salvo unos pocos meses (de diciembre a febrero y abril).
+- La fuente 2 trae buenos resultados sólo en __septiembre y diciembre__.
+- La fuente 4 trae buenos resultados sólo en __noviembre__.
+- __La fuente 5 funciona bien para atraer compradores para navidad en el mes de septiembre, el resultado muestra que los clientes atraídos en esta fecha generaron muy buenos resultados__, sin embargo el resto del año la campaña no funciona bien.
+- La fuente 9 trae resultados relativamente buenos __desde junio hasta octubre__.
+- La fuente 10 ha mostrado buenos números en __marzo y mayo__.
+
+
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P8.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
