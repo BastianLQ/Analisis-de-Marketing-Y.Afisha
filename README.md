@@ -49,6 +49,9 @@ Se presentarán los principales descubrimientos del análisis en diferentes ámb
 - El Costo de adquisición de cliente de la fuente 3 es de más de 13 dólares, lo que nos da un indicio de lo poco rentable que está resultando esta fuente de anuncios.
 <image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_149_0.png" alt="Collage de gráficos">
 
+- La fuente 3 es, también, la que más recibió dinero durante el año estudiado.
+<image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_143_0.png" alt="Collage de gráficos">
+
 ### Recomendaciones de inversión
 Se analizará el ROMI mensual acumulado de cada fuente de anuncios, esto nos brindará una idea de en cuanto tiempo se recupera la inversión y si es que se llegan a generar ganancias, es el indicador clave de rendimiento de una campaña de marketing orientada a vender.
 
