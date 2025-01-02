@@ -75,6 +75,11 @@ Se presentarán los principales descubrimientos del análisis en diferentes ámb
 <image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_188_0.png" alt="Collage de gráficos">
 
 - El porcentaje de fondos a redistribuir sería por lo bajo un 42.9%
+- Durante los meses donde no se ven campañas rentables, se recomienda invertir en campañas de remarketing enfocadas en la retención de los usuarios que hicieron visitas y realizaron compras anteriormente, ya que es un punto débil en la estrategia actual y atacarlo podría traer grandes beneficios.
+
+### Beneficios esperados
+
+Comparando el ROMI mensual promedio de la tienda, con el ROMI de la fuente 1 (la más rentable) podemos observar que los beneficios de llevar a cabo las recomendaciones serían __el doble de retorno de la inversión en marketing__ calculado a nivel mensual, y eso es sólo contemplando la eliminación de la fuente 3 de anuncios, con el ajuste de las otras campañas y la implementación de campañas de remarketing, los beneficios serán aún más grandes.
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P8.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
