@@ -79,7 +79,7 @@ Se presentarán los principales descubrimientos del análisis en diferentes ámb
 
 ### Beneficios esperados
 
-Comparando el ROMI mensual promedio de la tienda, con el ROMI de la fuente 1 (la más rentable) podemos observar que los beneficios de llevar a cabo las recomendaciones serían __el doble de retorno de la inversión en marketing__ calculado a nivel mensual, y eso es sólo contemplando la eliminación de la fuente 3 de anuncios, con el ajuste de las otras campañas y la implementación de campañas de remarketing, los beneficios serán aún más grandes.
+Comparando el ROMI mensual promedio de la tienda, con el ROMI de la fuente 1 (la más rentable) podemos observar que los beneficios de llevar a cabo las recomendaciones serían __el doble de retorno de la inversión en marketing__ calculado a nivel mensual, y eso es sólo contemplando la eliminación de la fuente 3 de anuncios, considerando en la ecuación el ajuste de las otras campañas y la implementación de campañas de remarketing, los beneficios netos serán aún más grandes.
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P8.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
