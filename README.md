@@ -71,8 +71,10 @@ Se presentarán los principales descubrimientos del análisis en diferentes ámb
 - La fuente 10 ha mostrado buenos números en __marzo y mayo__.
 <image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_176_0.png" alt="Collage de gráficos">
 
-Según los resultados anteriores es que se propone el siguiente esquema de distribución de recursos entre las campañas de marketing.
+- Según los resultados anteriores es que se propone el siguiente esquema de distribución de recursos entre las campañas de marketing.
 <image src="https://github.com/BastianLQ/Analisis-de-Marketing-Y.Afisha/blob/main/Images/output_188_0.png" alt="Collage de gráficos">
+
+- El porcentaje de fondos a redistribuir sería por lo bajo un 42.9%
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P8.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
